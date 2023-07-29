@@ -1,0 +1,8 @@
+[package]
+name = "calculator-rust"
+version = "0.1.0"
+edition = "2021"
+path="src/target/release/calculator-rust"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
